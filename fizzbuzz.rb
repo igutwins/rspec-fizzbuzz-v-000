@@ -10,3 +10,4 @@ def fizzbuzz(int)
   else
     0
 end
+end
